@@ -37,6 +37,13 @@
       <description>&lt;p&gt;&lt;strong&gt;&amp;ldquo;Storage without structure is chaos.&amp;rdquo;&lt;/strong&gt; This customer knew that all too well. Their aging Windows 7 Home server, running on three separate 4TB drives, was bursting at the seams—not just with data, but with inefficiencies. It was time for a change. They wanted a server that wasn’t just an upgrade but a leap forward.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Portfolio &amp; Testimonials</title>
+      <link>http://localhost:1313/portfolio/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;see-what-weve-built-for-our-clients&#34;&gt;See What We’ve Built for Our Clients&lt;/h2&gt;&#xA;&lt;p&gt;At &lt;strong&gt;WNYNAS&lt;/strong&gt;, we take pride in delivering custom NAS solutions that exceed our clients’ expectations. Here’s a glimpse into some of our past projects and what our satisfied customers have to say about their experience.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;1-home-media-server-for-a-movie-buff&#34;&gt;1. Home Media Server for a Movie Buff&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Build Highlights:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Specifications&lt;/strong&gt;: 8TB storage, RAID 5, Intel i5 processor, 16GB RAM&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Features&lt;/strong&gt;: Preconfigured Plex Media Server and automatic nightly backups&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Use Case&lt;/strong&gt;: Streaming a personal movie collection to multiple devices&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Client Testimonial:&lt;/strong&gt;&lt;br&gt;&#xA;&lt;em&gt;&amp;ldquo;WNYNAS made it so easy to turn my movie collection into an on-demand streaming service for my family. The server is fast, reliable, and simple to manage. Highly recommend!&amp;rdquo;&lt;/em&gt;&lt;br&gt;&#xA;– &lt;strong&gt;David P., Buffalo, NY&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Pricing</title>
       <link>http://localhost:1313/pricing/</link>
       <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
