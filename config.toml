@@ -31,7 +31,7 @@ ignoreLogs = ['warning-goldmark-raw-html']
   googleFonts = true
 
   [params.logo]
-    main = "img/logo/logo.svg"
+    main = "img/logo/server.png"
     alt = "Tella Logo"
 
     # The size parameter is the class name of tailwindcss
@@ -86,7 +86,8 @@ ignoreLogs = ['warning-goldmark-raw-html']
       weight = 1
 
   [[menu.footer]]
-    name = "Github"
-    url = "https://github.com/opera7133/tella"
-    pre = "<i class='icon-github text-2xl'></i>"
+    name = "Contact Us"
+    pre = "<i class='fas fa-envelope text-2xl'></i>"
+    url = "/contact"
       weight = 2
+

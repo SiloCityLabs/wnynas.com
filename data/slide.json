@@ -1,11 +1,12 @@
 [
   {
-    "title": "Tella, A Hugo theme for Companies.",
-    "image": "img/slide/slide01.jpg"
+    "title": "Custom NAS Servers for Buffalo, NY",
+    "image": "img/slide/slide03.webp",
+    "color": "text-white"
   },
   {
-    "title": "Sample text here...",
-    "image": "img/slide/slide02.jpg",
-    "color": "text-black"
+    "title": "Powerful & Efficient Storage Solutions",
+    "image": "img/slide/slide04.png",
+    "color": "text-white"
   }
 ]
