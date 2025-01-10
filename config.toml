@@ -13,6 +13,11 @@ enableRobotsTXT = true
 # Disqus Comment System
 #disqusShortname = ""
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 ignoreLogs = ['warning-goldmark-raw-html']
 
 [renderer]
