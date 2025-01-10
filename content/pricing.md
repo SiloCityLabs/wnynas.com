@@ -4,7 +4,7 @@ date: 2025-01-10
 description: "Explore affordable subscription plans and services for your NAS management needs at WNYNAS."
 ---
 
-# Pricing
+---
 
 ## Affordable Plans for Your NAS Management Needs
 At **WNYNAS**, we offer flexible subscription plans to ensure your NAS server stays up-to-date, secure, and running smoothly. Whether you’re a casual user or managing a critical business server, we have a plan to suit your needs.

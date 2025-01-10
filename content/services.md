@@ -4,7 +4,7 @@ date: 2025-01-10
 description: "Explore the custom NAS solutions and services offered by WNYNAS in Buffalo, NY."
 ---
 
-# Services
+---
 
 ## Custom NAS Builds
 At **WNYNAS**, we specialize in creating custom NAS (Network Attached Storage) servers designed to meet your exact needs. Whether you’re looking to store personal data, host a home media server, or manage critical business files, we’ll build a solution that balances performance, reliability, and cost.
