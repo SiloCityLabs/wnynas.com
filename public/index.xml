@@ -52,9 +52,9 @@
     </item>
     <item>
       <title>Privacy Policy</title>
-      <link>http://localhost:1313/privary/</link>
+      <link>http://localhost:1313/privacy/</link>
       <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/privary/</guid>
+      <guid>http://localhost:1313/privacy/</guid>
       <description>&lt;hr&gt;&#xA;&lt;p&gt;This Privacy Policy governs the manner in which Techreanimate collects, uses, maintains, and discloses information collected from users (each, a &amp;ldquo;User&amp;rdquo;) of the &lt;a href=&#34;https://wnynas.com&#34;&gt;https://wnynas.com&lt;/a&gt; website (&amp;ldquo;Site&amp;rdquo;). This privacy policy applies to the Site and all products and services offered by Techreanimate.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;what-information-do-we-collect&#34;&gt;What Information Do We Collect?&lt;/h2&gt;&#xA;&lt;p&gt;We collect information from you when you:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Register on our site&lt;/li&gt;&#xA;&lt;li&gt;Place an order&lt;/li&gt;&#xA;&lt;li&gt;Subscribe to our newsletter&lt;/li&gt;&#xA;&lt;li&gt;Respond to a survey&lt;/li&gt;&#xA;&lt;li&gt;Fill out a form&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;When ordering or registering on our site, you may be asked to enter your name, email address, mailing address, phone number, or other details. You may, however, visit our site anonymously.&lt;/p&gt;</description>
     </item>
     <item>
@@ -77,6 +77,13 @@
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/portfolio-homeassistant-powerhouse/</guid>
       <description>&lt;p&gt;Smart homes demand smart solutions. With over &lt;strong&gt;60 apps and integrations&lt;/strong&gt; and more than &lt;strong&gt;40 automations&lt;/strong&gt;, this customer needed a &lt;strong&gt;reliable, efficient, and compact&lt;/strong&gt; server for their Home Assistant setup. Initially, we focused on speed and longevity with a &lt;strong&gt;16GB Intel SLC NVMe drive&lt;/strong&gt;, but as their needs evolved, we added a &lt;strong&gt;Samsung EVO 512GB SSD&lt;/strong&gt; to handle &lt;strong&gt;two years of analytics storage&lt;/strong&gt; without a hitch.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/terms/</guid>
+      <description></description>
     </item>
     <item>
       <title>Contact</title>
