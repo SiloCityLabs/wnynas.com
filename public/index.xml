@@ -30,6 +30,13 @@
       <description>&lt;p&gt;&lt;strong&gt;&amp;ldquo;Storage without structure is chaos.&amp;rdquo;&lt;/strong&gt; This customer knew that all too well. Their aging Windows 7 Home server, running on three separate 4TB drives, was bursting at the seams—not just with data, but with inefficiencies. It was time for a change. They wanted a server that wasn’t just an upgrade but a leap forward.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Services</title>
+      <link>http://localhost:1313/services/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/</guid>
+      <description>&lt;h1 id=&#34;services&#34;&gt;Services&lt;/h1&gt;&#xA;&lt;h2 id=&#34;custom-nas-builds&#34;&gt;Custom NAS Builds&lt;/h2&gt;&#xA;&lt;p&gt;At &lt;strong&gt;WNYNAS&lt;/strong&gt;, we specialize in creating custom NAS (Network Attached Storage) servers designed to meet your exact needs. Whether you’re looking to store personal data, host a home media server, or manage critical business files, we’ll build a solution that balances performance, reliability, and cost.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tailored to You&lt;/strong&gt;: We design and assemble your NAS based on your storage, speed, and security requirements.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Powered by TrueNAS&lt;/strong&gt;: Your server will come preconfigured with TrueNAS for effortless data management.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Future-Proof Design&lt;/strong&gt;: Scalable storage options ensure your NAS grows with your needs.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;nas-upgrades&#34;&gt;NAS Upgrades&lt;/h2&gt;&#xA;&lt;p&gt;Already have a NAS but need more power or storage? Our upgrade services can breathe new life into your existing setup.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Custom Docker Server with LochNAS: High-Speed Storage Meets Scalability</title>
       <link>http://localhost:1313/blog/portfolio-lochnas-4tb/</link>
       <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
