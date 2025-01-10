@@ -13,6 +13,11 @@ enableRobotsTXT = true
 # Disqus Comment System
 #disqusShortname = ""
 
+ignoreLogs = ['warning-goldmark-raw-html']
+
+[renderer]
+  unsafe = true
+
 [params]
 
   showBlog = true
@@ -42,9 +47,6 @@ enableRobotsTXT = true
     meta_og_url = "https://wnynas.com"
     meta_og_image = ""
     meta_og_description = ""
-    meta_twitter_card = "summary_large_image"
-    meta_twitter_site = "@username"
-    meta_twitter_creator = "@username"
 
 [menu]
 
