@@ -1,5 +1,5 @@
 +++
-author = "Hugo Authors"
+author = "WNY NAS"
 title = "Rich Content"
 date = "2019-03-10"
 draft = true

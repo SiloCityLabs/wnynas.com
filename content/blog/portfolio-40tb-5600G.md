@@ -5,7 +5,7 @@ description: See how we turned an outdated Windows 7 server into a future-proof 
 date: 2025-01-10
 tags: ["Server Upgrade", "TrueNAS", "Custom Build"]
 draft: false
-author: Luis Rodriguez
+author: WNY NAS
 ---
 
 **"Storage without structure is chaos."** This customer knew that all too well. Their aging Windows 7 Home server, running on three separate 4TB drives, was bursting at the seams—not just with data, but with inefficiencies. It was time for a change. They wanted a server that wasn’t just an upgrade but a leap forward.

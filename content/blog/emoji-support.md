@@ -1,5 +1,5 @@
 +++
-author = "Hugo Authors"
+author = "WNY NAS"
 title = "Emoji Support"
 date = "2019-03-05"
 draft = true

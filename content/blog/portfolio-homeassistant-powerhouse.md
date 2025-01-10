@@ -4,7 +4,7 @@ description: Discover how we built a 2U rackmount Home Assistant server optimize
 date: 2020-08-01
 tags: ["Home Assistant", "Smart Home", "Custom Build"]
 draft: false
-author: Luis Rodriguez
+author: WNY NAS
 ---
 
 Smart homes demand smart solutions. With over **60 apps and integrations** and more than **40 automations**, this customer needed a **reliable, efficient, and compact** server for their Home Assistant setup. Initially, we focused on speed and longevity with a **16GB Intel SLC NVMe drive**, but as their needs evolved, we added a **Samsung EVO 512GB SSD** to handle **two years of analytics storage** without a hitch.

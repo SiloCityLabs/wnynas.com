@@ -1,5 +1,5 @@
 ---
-author: Hugo Authors
+author: WNY NAS
 title: Math Typesetting
 date: 2019-03-08
 draft: true
