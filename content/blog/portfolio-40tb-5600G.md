@@ -5,6 +5,8 @@ description: See how we turned an outdated Windows 7 server into a future-proof 
 date: 2025-01-10
 tags: ["Server Upgrade", "TrueNAS", "Custom Build"]
 draft: false
+testimonial: ""
+testimonial_author: ""
 author: WNYNAS
 ---
 

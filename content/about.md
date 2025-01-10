@@ -1,7 +1,7 @@
 ---
 title: "About Us"
 date: 2025-01-10
-description: "Learn about WNYNAS, your trusted provider of custom-built NAS solutions in Buffalo, NY."
+description: "Learn about WNYNAS, your trusted provider of custom-built NAS solutions in the Buffalo, NY area."
 ---
 
 ---

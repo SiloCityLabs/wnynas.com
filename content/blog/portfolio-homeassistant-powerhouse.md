@@ -4,6 +4,8 @@ description: Discover how we built a 2U rackmount Home Assistant server optimize
 date: 2020-08-01
 tags: ["Home Assistant", "Smart Home", "Custom Build"]
 draft: false
+testimonial: "My Smart home just got alot faster with this new server. I can't believe how much more responsive everything is now."
+testimonial_author: "Anonymous"
 author: WNYNAS
 ---
 

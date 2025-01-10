@@ -4,6 +4,8 @@ description: Discover how we crafted a Linux-based Docker server with LochNAS, f
 date: 2021-05-10
 tags: ["Server Upgrade", "Docker", "Custom Build"]
 draft: false
+testimonial: "WNYNAS did a geat job on our custom build. Ill continue to use them for all my server needs."
+testimonial_author: "Anthony"
 author: WNYNAS
 ---
 
