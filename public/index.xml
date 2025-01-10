@@ -16,6 +16,13 @@
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec accumsan dapibus purus, vel maximus erat facilisis vel. Suspendisse eu ipsum consequat, sodales nulla vel, faucibus velit. Fusce imperdiet lacus nec cursus auctor. In vulputate arcu et nulla placerat, nec pulvinar quam rhoncus. Praesent vel placerat nunc. Mauris elit felis, pulvinar egestas risus ut, fermentum ullamcorper orci. Integer tempor, neque sed fermentum eleifend, ligula est tincidunt purus, sodales semper elit enim ut mi. Vestibulum commodo tristique hendrerit. Duis interdum tristique augue id aliquam. Sed et tellus aliquam, accumsan erat at, facilisis tortor. Donec ac sapien sed lectus ullamcorper ultrices. Nullam placerat mauris nec urna rhoncus, vitae faucibus nulla venenatis. Donec vestibulum justo auctor, vestibulum diam quis, egestas erat. Vivamus volutpat et metus ut fermentum. Donec volutpat neque nec quam lacinia, nec faucibus felis ullamcorper.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>About Us</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;about-us&#34;&gt;About Us&lt;/h1&gt;&#xA;&lt;h2 id=&#34;who-we-are&#34;&gt;Who We Are&lt;/h2&gt;&#xA;&lt;p&gt;At &lt;strong&gt;WNYNAS&lt;/strong&gt;, we are passionate about helping Buffalo, NY residents and businesses take control of their data with custom-built NAS (Network Attached Storage) servers. With years of expertise in server hardware and data management, we’re committed to delivering reliable, high-performance storage solutions tailored to your needs.&lt;/p&gt;&#xA;&lt;h2 id=&#34;our-mission&#34;&gt;Our Mission&lt;/h2&gt;&#xA;&lt;p&gt;Our mission is simple: to empower our community with the tools and knowledge needed to store, manage, and secure their data. Whether you’re a tech-savvy homeowner, a small business owner, or anyone in between, we’re here to make custom NAS solutions accessible, efficient, and worry-free.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>From Windows 7 to TrueNAS: A High-Performance Server Transformation</title>
       <link>http://localhost:1313/blog/portfolio-40tb-5600g/</link>
       <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
@@ -37,18 +44,11 @@
       <description>&lt;p&gt;Smart homes demand smart solutions. With over &lt;strong&gt;60 apps and integrations&lt;/strong&gt; and more than &lt;strong&gt;40 automations&lt;/strong&gt;, this customer needed a &lt;strong&gt;reliable, efficient, and compact&lt;/strong&gt; server for their Home Assistant setup. Initially, we focused on speed and longevity with a &lt;strong&gt;16GB Intel SLC NVMe drive&lt;/strong&gt;, but as their needs evolved, we added a &lt;strong&gt;Samsung EVO 512GB SSD&lt;/strong&gt; to handle &lt;strong&gt;two years of analytics storage&lt;/strong&gt; without a hitch.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;&gt;Apache Licence 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;&#xA;&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/yuin/goldmark&#34;&gt;https://github.com/yuin/goldmark&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/alecthomas/chroma&#34;&gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/muesli/smartcrop&#34;&gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;&gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Contact</title>
       <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/contact/</guid>
-      <description>&lt;p&gt;To contact us, please fill out the form below.&lt;/p&gt;&#xA;&lt;iframe src=&#34;https://docs.google.com/forms/d/e/1FAIpQLSeVT9h4rP0eNdliX8iAvAuunbJzf7ycAr2ahm50xmXlDF-fcQ/viewform?embedded=true&#34; width=&#34;640&#34; height=&#34;2249&#34; frameborder=&#34;0&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34;&gt;Loading…&lt;/iframe&gt;</description>
+      <description>&lt;p&gt;To contact us, please fill out the form below.&lt;/p&gt;&#xA;&lt;div style=&#34;width: 100%; max-width: 648px; margin: auto;&#34;&gt;&#xA;    &lt;iframe src=&#34;https://docs.google.com/forms/d/e/1FAIpQLSeVT9h4rP0eNdliX8iAvAuunbJzf7ycAr2ahm50xmXlDF-fcQ/viewform?embedded=true&#34; style=&#34;width: 100%; height: 2249px; border: 0;&#34; frameborder=&#34;0&#34;&gt;&#xA;    &lt;/iframe&gt;&#xA;&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>
