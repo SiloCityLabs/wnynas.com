@@ -1,5 +1,5 @@
 ---
-author: WNY NAS
+author: WNYNAS
 title: Math Typesetting
 date: 2019-03-08
 draft: true

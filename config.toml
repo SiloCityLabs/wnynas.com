@@ -1,5 +1,5 @@
 baseURL = "https://wnynas.com"
-title = "WNY NAS"
+title = "WNYNAS"
 author = "SiloCityLabs"
 languageCode = "en"
 DefaultContentLanguage = "en"
@@ -8,7 +8,7 @@ theme = "tella"
 enableRobotsTXT = true
 
 # If you're using Google Analytics, you can enable this feature.
-#googleAnalytics = "UA-12345678-1"
+googleAnalytics = "G-6WF8VRZK5X"
 
 # Disqus Comment System
 #disqusShortname = ""
@@ -32,68 +32,84 @@ ignoreLogs = ['warning-goldmark-raw-html']
 
   [params.logo]
     main = "img/logo/server.png"
-    alt = "Tella Logo"
+    alt = "WNYNAS"
+    text = "WNYNAS"
 
     # The size parameter is the class name of tailwindcss
     # https://tailwindcss.com/
     size = "h-14"
 
   [params.site]
-    name = "WNY NAS" 
+    name = "WNYNAS" 
 
   [params.icon]
     #If you want to use FontAwesome, set this parameter to true.
     fontawesome = true
 
   [params.homepage_meta_tags]
-    meta_description = ""
-    meta_og_title = "WNY NAS"
+    meta_og_title = "WNYNAS"
     meta_og_type = "website"
     meta_og_url = "https://wnynas.com"
     meta_og_image = ""
     meta_og_description = ""
+    meta_description = ""
 
 [menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
 
   [[menu.main]]
     identifier = "products"
     name = "Products"
     url = "/products/"
-    weight = 1
+    weight = 2
 
   [[menu.main]]
     identifier = "blog"
     name = "Blog"
     url = "/blog/"
-    weight = 2
+    weight = 3
 
   [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 3
+    weight = 4
 
   [[menu.main]]
     identifier = "services"
     name = "Services"
     url = "/services/"
-    weight = 4
+    weight = 5
 
   [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url = "/contact/"
-    weight = 5
+    weight = 6
 
-  # Footer Menu
   [[menu.footer]]
     name = "Home"
     url = "/"
-      weight = 1
+    weight = 1
+
+  [[menu.footer]]
+    name = "Privacy Policy"
+    url = "/privacy"
+    weight = 2
+
+  [[menu.footer]]
+    name = "Terms of Service"
+    url = "/terms"
+    weight = 3
 
   [[menu.footer]]
     name = "Contact Us"
-    pre = "<i class='fas fa-envelope text-2xl'></i>"
+    # pre = "<i class='fas fa-envelope text-2xl'></i>"
     url = "/contact"
-      weight = 2
+    weight = 4
 

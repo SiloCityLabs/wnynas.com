@@ -1,3 +1,3 @@
 +++
-author = "WNY NAS"
+author = "WNYNAS"
 +++

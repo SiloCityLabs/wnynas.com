@@ -1,5 +1,5 @@
 +++
-author = "WNY NAS"
+author = "WNYNAS"
 title = "Rich Content"
 date = "2019-03-10"
 draft = true

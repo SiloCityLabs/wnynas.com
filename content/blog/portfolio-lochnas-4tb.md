@@ -4,7 +4,7 @@ description: Discover how we crafted a Linux-based Docker server with LochNAS, f
 date: 2021-05-10
 tags: ["Server Upgrade", "Docker", "Custom Build"]
 draft: false
-author: WNY NAS
+author: WNYNAS
 ---
 
 When it comes to combining **speed, scalability, and flexibility**, every detail matters. This customer wanted a server tailored to two distinct needs: **massive storage for media** and **blazing-fast performance for development and document handling**. Their existing setup just couldn’t keep up. Enter our custom-built **Linux Docker server** with a unique LochNAS implementation.

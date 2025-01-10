@@ -1,5 +1,5 @@
 +++
-author = "WNY NAS"
+author = "WNYNAS"
 title = "Markdown Syntax Guide"
 date = "2019-03-11"
 draft = true
