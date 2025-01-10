@@ -23,6 +23,13 @@
       <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;who-we-are&#34;&gt;Who We Are&lt;/h2&gt;&#xA;&lt;p&gt;At &lt;strong&gt;WNYNAS&lt;/strong&gt;, we are passionate about helping Buffalo, NY residents and businesses take control of their data with custom-built NAS (Network Attached Storage) servers. With years of expertise in server hardware and data management, we’re committed to delivering reliable, high-performance storage solutions tailored to your needs.&lt;/p&gt;&#xA;&lt;h2 id=&#34;our-mission&#34;&gt;Our Mission&lt;/h2&gt;&#xA;&lt;p&gt;Our mission is simple: to empower our community with the tools and knowledge needed to store, manage, and secure their data. Whether you’re a tech-savvy homeowner, a small business owner, or anyone in between, we’re here to make custom NAS solutions accessible, efficient, and worry-free.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>FAQ</title>
+      <link>http://localhost:1313/faq/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/faq/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;general-questions&#34;&gt;General Questions&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-what-is-a-nas&#34;&gt;1. What is a NAS?&lt;/h3&gt;&#xA;&lt;p&gt;A NAS (Network Attached Storage) is a dedicated server that allows you to store, manage, and access your data over a network. It’s perfect for personal use, home media setups, and businesses needing centralized file storage.&lt;/p&gt;&#xA;&lt;h3 id=&#34;2-why-should-i-choose-wnynas&#34;&gt;2. Why should I choose WNYNAS?&lt;/h3&gt;&#xA;&lt;p&gt;We’re a local Buffalo-based company specializing in custom-built NAS servers. Our expertise with TrueNAS and commitment to personalized service ensures you get a reliable and tailored solution.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>From Windows 7 to TrueNAS: A High-Performance Server Transformation</title>
       <link>http://localhost:1313/blog/portfolio-40tb-5600g/</link>
       <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
