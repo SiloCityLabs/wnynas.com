@@ -1,0 +1,19 @@
+<div class="swiper-container">
+    <div class="swiper-wrapper">
+        {{ range .Site.Data.slide }}
+        <div class="swiper-slide">
+            <img src="{{ .image }}" alt="{{ .alt }}">
+            <div class="s-fade-txt text-center">
+                <h1 class="font-bold text-4xl {{ or .color "text-white" }}" style="text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.9);">
+                    {{ .title }}
+                </h1>
+                <a href="/contact" class="mt-4 inline-block px-6 py-2 bg-blue-500 text-white font-bold text-lg rounded hover:bg-blue-700 transition duration-300">
+                    Contact Now
+                </a>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-button-next"></div>
+</div>

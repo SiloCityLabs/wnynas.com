@@ -31,3 +31,5 @@ _testmain.go
 .DS_Store
 
 /resources
+hugo
+tiny.sh
